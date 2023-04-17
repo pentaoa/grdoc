@@ -7,15 +7,15 @@ export default hopeTheme({
   hostname: "https://mister-hope.github.io",
 
   author: {
-    name: "Grada",
-    url: "https://gitee.com/pentaoa",
+    name: "鲲鹏",
+    url: "https://github.com/pentaoa",
   },
 
   iconAssets:"iconfont",
   
   logo: "logo.svg",
 
-  repo: "https://gitee.com/pentaoa/grdoc",
+  repo: "https://github.com/pentaoa/grdoc",
 
   docsDir: "docs",
 
@@ -41,7 +41,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个热爱生活的高中牲",
+        description: "贫乏就是富足，自律产生喜悦",
         intro: "/intro.html",
       },
 

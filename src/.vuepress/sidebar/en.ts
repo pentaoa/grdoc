@@ -4,6 +4,12 @@ export const enSidebar = sidebar({
   "/": [
     "",
     {
+      text: "文章",
+      icon: "note",
+      prefix: "posts/",
+      children: "structure",
+    },
+    {
       icon: "discover",
       text: "关于",
       prefix: "demo/",
@@ -11,10 +17,11 @@ export const enSidebar = sidebar({
       children: "structure",
     },
     {
-      text: "文章",
-      icon: "note",
-      prefix: "posts/",
-      children: "structure",
-    },
+      icon:"edit",
+      text:"存档",
+      link:"zips/",
+      prefix:"zips/",
+      children:"structure",
+    }
   ],
 });

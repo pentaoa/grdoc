@@ -3,6 +3,10 @@ icon: info
 cover: /assets/images/cover3.jpg
 ---
 
-# Intro Page
+# 更新日志
 
-Place your introduction and profile here.
+## 0.00.0
+4.16 递交至Vercel
+
+## 0.00.1
+4.17 小型修改，删除一些敏感和测试文章

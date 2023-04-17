@@ -4,21 +4,10 @@ export const enNavbar = navbar([
   "/",
   { text: "关于博客", icon: "discover", link: "/demo/" },
   {
-    text: "Posts",
+    text: "博文",
     icon: "edit",
     prefix: "/posts/",
     children: [
-      {
-        text: "Apple",
-        icon: "edit",
-        prefix: "apple/",
-        children: [
-          { text: "Apple1", icon: "edit", link: "1" },
-          { text: "Apple2", icon: "edit", link: "2" },
-          "3",
-          "4",
-        ],
-      },
       {
         text: "Banana",
         icon: "edit",
@@ -44,9 +33,9 @@ export const enNavbar = navbar([
       "strawberry",
     ],
   },
-  {
-    text: "V2 Docs",
-    icon: "note",
-    link: "https://theme-hope.vuejs.press/",
-  },
+  { 
+    text:"存档",
+    icon:"edit",
+    link:""
+  }
 ]);
