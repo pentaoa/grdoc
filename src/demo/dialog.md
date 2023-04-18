@@ -1,11 +1,13 @@
 ---
-title: dadsf
+title: 建站小记
+stiky: true
+star: true
 icon: config
 order: 3
 category:
-  - 使用指南
+  - 文档
 tag:
-  - 禁用
+  - 主打文章
 
 navbar: true
 sidebar: false
@@ -22,9 +24,7 @@ footer: true
 
 backtotop: false
 ---
-
-你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。
-
+高三建站的随笔
 <!-- more -->
 
 这是我的博客！

@@ -1,17 +1,15 @@
 ---
-title: 主要功能与配置演示
-index: false
+title: 网站的介绍
+index: true
 icon: discover
+sticky: true
 category:
-  - 使用指南
+  - 文档
 ---
 
 ## 目录
+- [网站的更新日志](intro.md)
 
-- [Markdown 展示](markdown.md)
+- [建站小记](dialog.md)
 
-- [页面展示](page.md)
-
-- [禁用展示](disable.md)
-
-- [加密展示](encrypt.md)
+- [密码功能](encrypt.md)

@@ -52,21 +52,16 @@ export default hopeTheme({
      */
   },
 
-  encrypt: {
-    config: {
-      "/demo/encrypt.html": ["1234"],
-    },
-  },
 
   plugins: {
     blog: true,
 
     comment: {
       provider: "Giscus",
-      repo: "pentaoa/pentaoa.github.io",
-      repoId: "R_kgDOJUdk7Q",
+      repo: "pentaoa/grdoc",
+      repoId: "R_kgDOJXMhaA",
       category: "Announcements",
-      categoryId: "DIC_kwDOJUdk7c4CVzLo",
+      categoryId: "DIC_kwDOJXMhaM4CV16d",
     },
 
     // all features are enabled for demo, only preserve features you need here
@@ -75,10 +70,10 @@ export default hopeTheme({
       attrs: true,
       chart: true,
       codetabs: true,
-      demo: true,
+      demo: false,
       echarts: true,
       figure: true,
-      flowchart: true,
+      flowchart: false,
       gfm: true,
       imgLazyload: true,
       imgSize: true,
@@ -86,9 +81,7 @@ export default hopeTheme({
       katex: true,
       mark: true,
       mermaid: true,
-      playground: {
-        presets: ["ts", "vue"],
-      },
+
       presentation: {
         plugins: ["highlight", "math", "search", "notes", "zoom"],
       },

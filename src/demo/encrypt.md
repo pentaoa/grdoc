@@ -1,7 +1,7 @@
 ---
 icon: lock
 category:
-  - 使用指南
+  - 文档
 tag:
   - 文章加密
 ---

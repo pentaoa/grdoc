@@ -1,6 +1,7 @@
 ---
 icon: info
-cover: /assets/images/cover3.jpg
+cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/public/cover4.jpg
+category: 文档
 ---
 
 # 更新日志
