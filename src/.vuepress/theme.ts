@@ -17,7 +17,7 @@ export default hopeTheme({
 
   repo: "https://github.com/pentaoa/grdoc",
 
-  docsDir: "docs",
+  docsDir: "src",
 
   blog: {
     roundAvatar: true,
