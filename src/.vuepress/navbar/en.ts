@@ -2,10 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  { text: "关于博客", icon: "discover", link: "/demo/" },
+  { text: "关于博客", link: "/demo/" },
   {
     text: "博文",
-    icon: "edit",
     prefix: "/posts/",
     children: [
       {
@@ -31,7 +30,7 @@ export const enNavbar = navbar([
   },
   { 
     text:"存档",
-    icon:"edit",
+    
     link:"/zip/"
   }
 ]);
