@@ -13,5 +13,3 @@ category:
 - [建站小记](dialog.md)
 
 - [密码功能](encrypt.md)
-
-- [小恐龙](/src/Things/dino.html)

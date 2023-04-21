@@ -11,8 +11,12 @@ export default hopeTheme({
     url: "https://github.com/pentaoa",
   },
 
-  iconAssets:"iconfont",
-  
+  iconAssets: [
+    "//at.alicdn.com/t/c/font_4018576_t81f3kv3g9m.js",
+    "https://at.alicdn.com/t/c/font_4018576_t81f3kv3g9m.css",
+    "iconfont",
+  ],
+
   logo: "logo.svg",
 
   repo: "https://github.com/pentaoa/grdoc",

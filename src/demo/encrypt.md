@@ -1,5 +1,5 @@
 ---
-icon: lock
+icon: icon-konglong
 category:
   - 文档
 tag:
