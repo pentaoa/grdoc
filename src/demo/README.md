@@ -1,7 +1,7 @@
 ---
 title: 网站的介绍
 index: true
-icon: discover
+icon: iconfont icon-jiu
 sticky: true
 category:
   - 文档

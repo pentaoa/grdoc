@@ -1,5 +1,5 @@
 ---
-icon: icon-konglong
+icon: iconfont icon-zongzi
 category:
   - 文档
 tag:

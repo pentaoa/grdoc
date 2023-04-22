@@ -2,7 +2,7 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  { text: "关于博客", link: "/demo/" },
+  { text: "关于博客", link: "/demo/"},
   {
     text: "博文",
     prefix: "/posts/",

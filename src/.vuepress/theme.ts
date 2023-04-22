@@ -12,7 +12,6 @@ export default hopeTheme({
   },
 
   iconAssets: [
-    "//at.alicdn.com/t/c/font_4018576_t81f3kv3g9m.js",
     "https://at.alicdn.com/t/c/font_4018576_t81f3kv3g9m.css",
     "iconfont",
   ],
@@ -22,6 +21,10 @@ export default hopeTheme({
   repo: "https://github.com/pentaoa/grdoc",
 
   docsDir: "src",
+  
+  contributors: true,
+  lastUpdated: true,
+  editLink: false,
 
   blog: {
     roundAvatar: true,
@@ -31,6 +34,8 @@ export default hopeTheme({
       GitHub: "https://github.com/pentaoa",
     },
   },
+  
+  darkmode: "disable",
 
   locales: {
     "/": {
@@ -40,7 +45,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "你好，世界！",
 
       displayFooter: true,
 

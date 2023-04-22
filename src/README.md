@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 bgImage: /assets/images/big6.jpg
-icon: home
+icon: iconfont icon-a-Gradatubiaobai
 title: 主页
 heroImage: /东土鲲鹏.svg
 heroText: 建站大吉！
