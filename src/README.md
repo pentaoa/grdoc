@@ -4,7 +4,7 @@ layout: BlogHome
 bgImage: /assets/images/big6.jpg
 icon: iconfont icon-a-Gradatubiaobai
 title: 主页
-heroImage: /东土鲲鹏.svg
+heroImage: /logo.svg
 heroText: 建站大吉！
 heroFullScreen: true
 tagline: 本个人博客于4月15日开始构建

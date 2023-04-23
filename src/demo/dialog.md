@@ -25,7 +25,8 @@ headerDepth: 5
 backtotop: false
 toc: true
 ---
-高三建站的随笔
+### 高三建站的随笔
+
 <!-- more -->
 
 距离高考 50 天，走上了效率的不归路（bushi）。

@@ -45,7 +45,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "你好，世界！",
+      footer: "欢迎来到我的小破站~",
 
       displayFooter: true,
 
