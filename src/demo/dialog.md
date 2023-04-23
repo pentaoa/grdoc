@@ -1,7 +1,7 @@
 ---
 title: 建站小记
 stiky: true
-star: true
+star: 10
 icon: config
 order: 3
 category:

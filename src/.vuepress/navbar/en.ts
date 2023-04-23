@@ -9,6 +9,6 @@ export const enNavbar = navbar([
   },
   { 
     text:"存档",
-    link:"/zip/"
+    link:"/zips/"
   }
 ]);

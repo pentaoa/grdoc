@@ -21,10 +21,16 @@ export default hopeTheme({
   repo: "https://github.com/pentaoa/grdoc",
 
   docsDir: "src",
+
+  themeColor: {
+    blue: "#2196f3",
+    green: "#27ae60",
+  },
   
   contributors: true,
   lastUpdated: true,
   editLink: false,
+  fullscreen: true,
 
   blog: {
     roundAvatar: true,
@@ -35,7 +41,7 @@ export default hopeTheme({
     },
   },
   
-  darkmode: "disable",
+  //darkmode: "disable",
 
   locales: {
     "/": {
