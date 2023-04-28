@@ -9,20 +9,19 @@ heroText: 建站大吉！
 heroFullScreen: true
 tagline: 本个人博客于4月15日开始构建
 projects:
-  - icon: project
-    name: 依托腾讯云（答辩）
-    desc: 博客的腾讯云地址
-    link: https://console.cloud.tencent.com
-
-  - icon: link
+  - icon: /logo.svg
     name: 本网页
     desc: 添加到收藏夹吧！！
     link: https://grada.site
 
+  - icon: project
+    name: 小恐龙
+    desc: small games~
+    link: https://grdoc-8gfcm1c661ee9978-1317591693.tcloudbaseapp.com
+
   - icon: /logo.svg
-    name: 本网站的设计
-    desc: 查看设计故事
-    link: https://你的自定义链接
+    name: 五一快乐！
+    desc: 放假啦
     
   - icon: book
     name: 本网站的托管机构

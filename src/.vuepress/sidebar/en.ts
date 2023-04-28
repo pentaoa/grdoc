@@ -13,13 +13,11 @@ export const enSidebar = sidebar({
       icon: "discover",
       text: "关于",
       prefix: "demo/",
-      link: "demo/",
       children: "structure",
     },
     {
       icon:"edit",
       text:"存档",
-      link:"zips/",
       prefix:"zips/",
       children:"structure",
     }

@@ -1,7 +1,8 @@
 ---
+cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/public/big10.png
 title: 建站小记
 stiky: true
-star: 10
+star: 1
 icon: config
 order: 3
 category:
@@ -17,7 +18,7 @@ pageInfo: false
 contributors: false
 editLink: false
 lastUpdated: false
-prev: false
+prev: true
 next: false
 comment: true
 footer: true
@@ -27,11 +28,13 @@ toc: true
 ---
 ### 高三建站的随笔
 
-<!-- more -->
-
 距离高考 50 天，走上了效率的不归路（bushi）。
 
-有人说，一直处于知识输入的状态，会忘记知识输出的优势，所以，就有了我的个人网站！！作为个人网站，“Grdoc” 主要承担着记录生活、存放思绪的作用，它也可以是我展示生活、记录生活的舞台。总的来说，博客是我的文档库的一个分支，充当和外界交流信息的接口。当然，欢迎各位在本网站投稿。作为一个前端小白，建站并不容易，在 GitHub、Gitee、腾讯云、Vercel 等平台辗转，有时回家都没打开过书包。建站对一个高三生来说确实非常的艰难，间接导致年段排名倒退30名。刚好最近在进行强基/高校专项的填报，回家后就特别忙。建站的过程非常的有趣，我从文档都看不懂到到熟悉 GitHub 的工作流，到了解网站证书和备案，到惊叹图床的便利，体会 vscode 对效率的巨大提升，体会使用 Vercel 那种行云流水般的畅快，在VSC、终端的花花绿绿中找到和电脑对话的节奏。
+<!-- more -->
+
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=39227591&auto=0&height=66"></iframe>
+
+有人说，一直处于知识输入的状态，会忘记知识输出的优势，所以，就有了我的个人网站！！作为个人网站，“Grdoc” 主要承担着记录生活、存放思绪的作用，它也可以是我展示生活、记录生活的舞台。总的来说，博客是我的文档库的一个分支，充当和外界交流信息的接口。当然，欢迎各位在本网站投稿。作为一个前端小白，建站并不容易，在 GitHub、Gitee、腾讯云、Vercel 等平台辗转，有时回家都没打开过书包。建站对一个高三生来说确实非常的艰难，间接导致年段排名倒退30名——刚好最近在进行强基/高校专项的填报，回家后就特别忙。建站的过程非常的有趣，我从文档都看不懂到到熟悉 GitHub 的工作流，到了解网站证书和备案，到惊叹图床的便利，体会 vscode 对效率的巨大提升，体会使用 Vercel 那种行云流水般的畅快，在VSC、终端的花花绿绿中找到和电脑对话的节奏。
 
 3 月，主要进行一些理论的准备，以及文章管理工具的选择。我开始使用 Craft, Notion, Typora, Obsidian 等编辑器，复习了 Markdown 语法。
 
@@ -41,7 +44,7 @@ toc: true
 
 我的域名是在腾讯云购买，还算便宜。但是，但是，如果要使用腾讯的服务，需要將域名备案，备案是非常麻烦的，而且腾讯云要我主机钱（2G内存一个月大概50元）。因此，最后选择了 Vercel。Vercel 构建速度、访问速度非常的快。
 
-现在的工作流：本地编辑>在VSC中上传>什么都不用做，Vercel 自动 Build>完成更新
+现在的工作流：本地编辑>在VSC中上传>什么都不用做，Vercel 自动 Build>完成更新。
 
 后续文章的更新频率应该不高，这个网站的 release 会在高考后会和大家见面。此外，网站的深色模式还没适配，请先凑合着用。
 

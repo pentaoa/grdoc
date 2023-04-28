@@ -27,13 +27,13 @@ export default hopeTheme({
     green: "#27ae60",
   },
   
-  contributors: true,
+  contributors: false,
   lastUpdated: true,
   editLink: false,
   fullscreen: true,
 
   blog: {
-    roundAvatar: true,
+    roundAvatar: false,
     medias: {
       BiliBili: "https://space.bilibili.com/272294799",
       Gitee: "https://gitee.com/pentaoa",
