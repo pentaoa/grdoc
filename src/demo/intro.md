@@ -1,5 +1,4 @@
 ---
-icon: info
 cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/public/dusk.png
 category: 文档
 ---
@@ -11,6 +10,7 @@ category: 文档
 
 4.22 第一篇文章，修改了导航栏样式，基本确定了主题色，更改标题和页脚
 4.23 新的图标！
+4.28 小恐龙，去掉 back to top 按钮，增加 RTL 选项
 
 **2.图床！**
 

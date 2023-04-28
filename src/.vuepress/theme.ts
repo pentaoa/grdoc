@@ -30,8 +30,10 @@ export default hopeTheme({
   contributors: false,
   lastUpdated: true,
   editLink: false,
-  fullscreen: true,
-
+  fullscreen: true,  
+  rtl: false,
+  backToTop: false,
+  
   blog: {
     roundAvatar: false,
     medias: {

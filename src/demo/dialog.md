@@ -3,8 +3,7 @@ cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/public/big10.png
 title: 建站小记
 stiky: true
 star: 1
-icon: config
-order: 3
+order: 1
 category:
   - 文档
 tag:
