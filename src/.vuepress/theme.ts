@@ -86,6 +86,7 @@ export default hopeTheme({
       align: true,
       attrs: true,
       chart: true,
+      card: true,
       codetabs: true,
       demo: false,
       echarts: true,
@@ -120,6 +121,12 @@ export default hopeTheme({
       tabs: true,
       vPre: true,
       vuePlayground: false,
+    },
+    
+    components: {
+        components:[
+          "ArtPlayer"
+        ],
     },
 
     // uncomment these if you want a PWA

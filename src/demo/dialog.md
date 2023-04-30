@@ -2,6 +2,7 @@
 cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/public/big10.png
 title: 建站小记
 stiky: true
+index: true
 star: 1
 order: 1
 category:
