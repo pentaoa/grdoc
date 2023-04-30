@@ -125,7 +125,7 @@ export default hopeTheme({
     
     components: {
         components:[
-          "ArtPlayer"
+          
         ],
     },
 

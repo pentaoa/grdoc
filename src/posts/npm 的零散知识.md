@@ -8,6 +8,8 @@ tag:
   - 代码
 date: 2023-04-28
 ---
+<video src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/47425958_357434018349105_8771663879588544512_n.mp4"></video>
+
 ## 安装
 
 在使用 `npm install` 安装模块时，可以使用 `-d` 或者 `--save-dev` 来将依赖项保存为开发环境依赖。
