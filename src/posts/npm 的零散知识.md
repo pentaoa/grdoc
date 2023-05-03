@@ -8,7 +8,7 @@ tag:
   - 代码
 date: 2023-04-28
 ---
-<video src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/47425958_357434018349105_8771663879588544512_n.mp4"></video>
+<video src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/47425958_357434018349105_8771663879588544512_n.mp4" controls></video>
 
 ## 安装
 
