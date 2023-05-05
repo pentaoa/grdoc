@@ -74,22 +74,22 @@ toc: true
 
 ### 2022-05-05
 
-<br/><font color="#ed5a65"><b>玲珑玉露金秋</b></font><br/>
+<font color="#ed5a65"><b>玲珑玉露金秋</b></font><br/>
 
-<br/><font color="#1661ab"><b>月缀柳梢头，</b></font><br/>
+<font color="#1661ab"><b>月缀柳梢头，</b></font><br/>
 
-<br/><font color="#ed5a65"><b>长屏掩映，</b></font><br/>
+<font color="#ed5a65"><b>长屏掩映，</b></font><br/>
 
-<br/><font color="#1661ab"><b>雁鹊双飞赤泪流</b></font><br/>
+<font color="#1661ab"><b>雁鹊双飞赤泪流</b></font><br/>
 
-<br/><font color="#ed5a65"><b>悠悠</b></font><br/>
+<font color="#ed5a65"><b>悠悠</b></font><br/>
 <br/><br/>
-<br/><font color="#ed5a65"><b>黑风白夜孤楼</b></font><br/>
+<font color="#ed5a65"><b>黑风白夜孤楼</b></font><br/>
 
-<br/><font color="#1661ab"><b>雨打苍颜瘦，</b></font><br/>
+<font color="#1661ab"><b>雨打苍颜瘦，</b></font><br/>
 
-<br/><font color="#ed5a65"><b>过墙红杏，</b></font><br/>
+<font color="#ed5a65"><b>过墙红杏，</b></font><br/>
 
-<br/><font color="#1661ab"><b>绕树三匝素发愁</b></font><br/>
+<font color="#1661ab"><b>绕树三匝素发愁</b></font><br/>
 
-<br/><font color="#ed5a65"><b>休休</b></font><br/>
+<font color="#ed5a65"><b>休休</b></font><br/>
