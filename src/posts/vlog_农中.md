@@ -1,5 +1,5 @@
 ---
-title: 五阆山下————记农中行
+title: 五阆山下——记农中行
 category:
   - 视频
 tag:
@@ -14,4 +14,4 @@ comment: true
 footer: true
 ---
 
-<video src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/vlog_nongzhong.mp4" controls="controls" style="width= 100%; height=100%"></video>
+<video src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/vlog_nongzhong.mp4" controls width="100%" height="400"></video>

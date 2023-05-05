@@ -1,13 +1,12 @@
 ---
 home: true
 layout: BlogHome
-bgImage: /assets/images/big6.jpg
-icon: iconfont icon-a-Gradatubiaobai
+bgImage: 
 title: 主页
-heroImage: /logo.svg
+heroImage: /logo4.svg
 heroText: 建站大吉！
 heroFullScreen: true
-tagline: 本个人博客于4月15日开始构建
+tagline: 海内存知己，天涯若比邻。别来无恙啊~
 projects:
   - icon: /logo.svg
     name: 本网页
