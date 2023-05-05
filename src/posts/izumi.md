@@ -20,8 +20,6 @@ toc: true
 ---
 
 
-# *Written by Izumi, in 2022.*
-
 ## 风如狼
 
 ### 2022-03-03
