@@ -1,7 +1,7 @@
 ---
 cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/%E5%92%8C%E9%A3%8E%E7%BB%86%E9%9B%A8%E5%92%8F%E6%B8%85%E6%B3%89.jpg
 author: Izumi
-title: 和风细雨咏清泉——Izumi 诗作
+title: 和风细雨咏清泉
 stiky: true
 star: 3
 category:
@@ -19,6 +19,8 @@ footer: true
 toc: true
 ---
 
+
+# *Written by Izumi, in 2022.*
 
 ## 风如狼
 
