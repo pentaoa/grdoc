@@ -42,7 +42,7 @@ toc: true
 
 **火树银花缀锦缎，澄汤翠叶蘸桃酥**
 
-**纵横野上观白兔，阡陌田间谈野狐**
+**纵横宇上观白兔，阡陌田间谈野狐**
 
 **日暖京华风赶马，归来壮志满腹书**
 
@@ -69,3 +69,29 @@ toc: true
 **归复，归复。**
 
 **长浪起帆拨雾。**
+
+## 同舟寄·白夜赤泪
+
+### 2022-05-05
+
+<font color="#ed5a65">**玲珑玉露金秋**</font>
+
+<font color="#1661ab">**月缀柳梢头，**</font>
+
+<font color="#ed5a65">**长屏掩映，**</font>
+
+<font color="#1661ab">**雁鹊双飞赤泪流**</font>
+
+<font color="#ed5a65">**悠悠**</font>
+<br/>
+<br/>
+
+<font color="#ed5a65">**黑风白夜孤楼**</font>
+
+<font color="#1661ab">**雨打苍颜瘦，**</font>
+
+<font color="#ed5a65">**过墙红杏，**</font>
+
+<font color="#1661ab">**绕树三匝素发愁**</font>
+
+<font color="#ed5a65">**休休**</font>
