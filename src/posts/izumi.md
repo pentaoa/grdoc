@@ -1,7 +1,7 @@
 ---
 cover: https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/%E5%92%8C%E9%A3%8E%E7%BB%86%E9%9B%A8%E5%92%8F%E6%B8%85%E6%B3%89.jpg
 author: Izumi
-title: 和风细雨咏清泉——Izumi 诗作
+title: 和风细雨咏清泉
 stiky: true
 star: 3
 category:
@@ -40,7 +40,7 @@ toc: true
 
 **火树银花缀锦缎，澄汤翠叶蘸桃酥**
 
-**纵横野上观白兔，阡陌田间谈野狐**
+**纵横宇上观白兔，阡陌田间谈野狐**
 
 **日暖京华风赶马，归来壮志满腹书**
 
@@ -67,3 +67,18 @@ toc: true
 **归复，归复。**
 
 **长浪起帆拨雾。**
+
+## 同舟寄·白夜赤泪
+
+### 2022-05-05
+<br/>
+<font color="#ed5a65"><b>玲珑玉露金秋</b></font><br/><br/>
+<font color="#1661ab"><b>月缀柳梢头，</b></font><br/><br/>
+<font color="#ed5a65"><b>长屏掩映，</b></font><br/><br/>
+<font color="#1661ab"><b>雁鹊双飞赤泪流</b></font><br/><br/>
+<font color="#ed5a65"><b>悠悠</b></font><br/><br/><br/>
+<font color="#ed5a65"><b>黑风白夜孤楼</b></font><br/><br/>
+<font color="#1661ab"><b>雨打苍颜瘦，</b></font><br/><br/>
+<font color="#ed5a65"><b>过墙红杏，</b></font><br/><br/>
+<font color="#1661ab"><b>绕树三匝素发愁</b></font><br/><br/>
+<font color="#ed5a65"><b>休休</b></font><br/>
