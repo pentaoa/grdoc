@@ -14,4 +14,4 @@ comment: true
 footer: true
 ---
 
-<video src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/vlog_nongzhong.mp4" controls width="100%" height="400"></video>
+<video class="videoElement" src="https://ihs-1317591693.cos.ap-guangzhou.myqcloud.com/grdoc/vlog_nongzhong.mp4" controls ></video>
